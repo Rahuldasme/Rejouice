@@ -704,15 +704,17 @@ nav h4 {
   }
 
   #part4 {
+    padding: 1vw 0;
     height: 80vh;
   }
 
   #part4-heading h4 {
     font-size: 3.2vw;
+    padding: 2.5vw 2.5vw;
   }
 
   #part4-elem {
-    padding: 1vw 0;
+    padding: 2.5vw 2.5vw;
   }
 
   #part4-cursor {
@@ -725,7 +727,7 @@ nav h4 {
   }
 
   #part4-bottom {
-    height: 80%;
+    height: 100%;
   }
 
   #part4-bottom #part4b-center h1 {
