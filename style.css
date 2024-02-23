@@ -615,6 +615,7 @@ nav h4 {
 @media (max-width: 600px) {
   #loader h3 {
     font-size: 5.8vw;
+    color: white;
   }
 
   #cursor {
