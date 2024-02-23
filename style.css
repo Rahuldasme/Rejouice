@@ -28,27 +28,25 @@ html,
 body {
   height: 100%;
   width: 100%;
-  overflow: hidden;
-  background-color: #faf8f3;
+  /* overflow: hidden; */
 }
 
 #loader {
-  height: 100%;
-  width: 100%;
   position: fixed;
+  width: 100%;
+  height: 100%;
   top: 0;
-  background-color: black;
   z-index: 99;
+  gap: 1vw;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
-  gap: 1vw;
-  /* overflow: hidden; */
+  background-color: #000000;
 }
 #loader h3 {
   font-size: 2vw;
 }
+
 #main {
   width: 100%;
   position: relative;
@@ -672,27 +670,27 @@ nav h4 {
   }
 
   #page3top h3 {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 
   #page3top h3 span {
-    font-size: 2vw;
+    font-size: 3vw;
   }
 
   #page3top h2 {
-    font-size: 6vw;
+    font-size: 7vw;
   }
 
   #page3top h3 i {
-    font-size: 2vw;
+    font-size: 3vw;
   }
 
   #part3-elements-head h1 {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 
   #part3-elements-head h1 i {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 
   #box-wrapper {
