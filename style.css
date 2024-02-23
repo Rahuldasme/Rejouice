@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 #loader {
@@ -45,6 +45,7 @@ body {
 }
 #loader h3 {
   font-size: 2vw;
+  color: white;
 }
 
 #main {
